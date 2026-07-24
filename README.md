@@ -1,5 +1,5 @@
 # Bill-splitter-
-Hii, this is my 3rd project!!
+This is a Bill-splitter
 
 ABOUT MY PROJECT 
 My project is about splitting the bill, and rounding it off. So for example if its 4 people, this bill would we divided equally among them.
